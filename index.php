@@ -1,8 +1,8 @@
 <?php
 /*  PHP System Status
  *  ------------------------------------------
- *  Author: wutno (#/g/tv - Rizon)
- *  Last update: 1/22/2012 3:01PM -5GMT (vnstat)
+ *  Authors: wutno (#/g/tv - Rizon), ed (https://github.com/9001)
+ *  Last update: 7/2/2013 7:59PM -5GMT (copyright issue resolved)
  *
  *
  *  GNU License Agreement
